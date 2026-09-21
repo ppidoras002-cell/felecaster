@@ -1,2 +1,4 @@
-aiogram
-telethon
+aiogram>=3.25,<4.0
+aiosqlite>=0.20.0
+python-dotenv>=1.0.0
+aiohttp-socks>=0.9.0
